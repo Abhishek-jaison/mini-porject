@@ -1,0 +1,29 @@
+                          ---------- EXERCISE HISTORY ----------                          
+ 
+USERNAME             EXERCISE             DURATION        CALORIES        DATE            
+ 
+abhishek             Football             90              810             16-03-2025      
+abhishek             Stair climbing       30              210             16-03-2025      
+abhishek             Running              30              360             16-03-2025      
+abhishek             Badminton            45              405             16-03-2025      
+abhishek             Aerobics             10              80              16-03-2025      
+abhishek             Running              30              360             16-03-2025      
+irene                Running              30              360             16-03-2025      
+irene                Cycling              30              360             16-03-2025      
+irene                Stair climbing       60              420             16-03-2025      
+antony               Running              30              360             17-03-2025      
+antony               Stair climbing       20              140             17-03-2025      
+antony               Gymnastics           90              540             17-03-2025      
+antony               Tennis               90              810             17-03-2025      
+gouri                Walking              10              40              17-03-2025      
+gouri                Swimming             30              210             17-03-2025      
+gouri                Cycling              45              540             17-03-2025      
+gouri                Badminton            45              405             17-03-2025      
+parkjimin            Running              12              144             17-03-2025      
+parkjimin            Weight training      30              180             17-03-2025      
+parkjimin            Aerobics             20              160             17-03-2025      
+parkjimin            Cycling              30              360             17-03-2025      
+parkjimin            Walking              78              312             17-03-2025      
+parkjimin            Stair climbing       64              448             17-03-2025      
+parkjimin            Badminton            20              180             17-03-2025      
+parkjimin            Tennis               20              180             17-03-2025      
