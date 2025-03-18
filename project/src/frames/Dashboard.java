@@ -93,13 +93,6 @@ public class Dashboard extends JFrame {
 			dispose();
 		});
 
-		// Add Diet Plan button
-		MatButton viewDietPlan = addButton("View Diet Plan", 20f, Color.WHITE, Theme.LIGHT_BLUE.color, 420, 0, 30);
-
-		viewDietPlan.addActionListener(event -> {
-			new DietPlan(username);
-		});
-
 		addLabel("Signed in as " + username, 17f, Theme.GRAY.color, 25, 7);
 		MatButton signOut = addButton("Sign out", 17f, Color.WHITE, Theme.RED.color, 200, 0, 0);
 
